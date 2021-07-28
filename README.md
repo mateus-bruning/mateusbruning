@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I'm @mateus-bruning
+- 👋🏻 Hi, my name is @mateus-bruning
 - 👀 I am interested in evolving in web programming
 - 🌱 I'm learning css & js
 - 📫 How to reach me: @mateus_bruning@estudante.sc.senai.br
